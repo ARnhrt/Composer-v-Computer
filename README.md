@@ -2,7 +2,7 @@
 ## Description
 
 ## RNG Program
-....
+[Python version](RNGMusic.py)
 
 ## Sources
 ### Artificial Intelligence
@@ -11,14 +11,12 @@
 > - [Soundraw](https://soundraw.io/)
 > - [ChatGPT](https://chat.openai.com/) (prompts)
 
-### Composition and Editing
-> - [Beepbox](https://beepbox.co)
-> - Microsoft Clipchamp
-> - [Youtube](channel/UCAjCcDsltUnetSoCYdKz_sQ)
+Compositions made with [Beepbox](https://beepbox.co), videos edited with Microsoft Clipchamp.
 
 ## Data
-### Observations
+[Observations](Notes.md).
 
+Final samples on [Youtube](channel/UCAjCcDsltUnetSoCYdKz_sQ).
 ### Survey Results
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
