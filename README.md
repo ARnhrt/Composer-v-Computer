@@ -20,4 +20,8 @@ Final samples on [Youtube](channel/UCAjCcDsltUnetSoCYdKz_sQ).
 ### Survey Results
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
-## License 
+## License
+
+
+
+*For more information, visit the [Wiki](https://github.com/ARnhrt/Composer-v-Computer/wiki)*
