@@ -1,4 +1,4 @@
-# Composer-v-Computer
+# A comparitive study on AI-generated music
 ## Description
 
 ## RNG Program
