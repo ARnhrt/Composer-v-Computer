@@ -16,11 +16,10 @@ Compositions made with [Beepbox](https://beepbox.co), videos edited with Microso
 ## Data
 [Observations](Notes.md).
 
-Final samples on [Youtube](channel/UCAjCcDsltUnetSoCYdKz_sQ).
+Final samples on [Youtube](https://www.youtube.com/channel/UCAjCcDsltUnetSoCYdKz_sQ).
 ### Survey Results
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
-## License
 
 
 
