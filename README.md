@@ -1,13 +1,11 @@
 # A comparitive study on AI-generated music
 ## Description
 
-## RNG Program
-[Python version](RNGMusic.py)
-
 ## Sources
 ### Artificial Intelligence
 > - [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx)
 > - [StableAudio](https://stability.ai/stable-audio)
+> - [AIVA](https://www.aiva.ai/)
 > - [ChatGPT](https://chat.openai.com/) (prompts)
 
 Compositions made with [Beepbox](https://beepbox.co), videos edited with Microsoft Clipchamp.
