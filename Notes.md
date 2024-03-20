@@ -1,6 +1,6 @@
 # Notes and Observations
 *Informal notes from various points in the study*
-## AIVA
+## AIVA (v5.2.0)
 Created by Aiva Technologies, funded by
 - Kima Ventures
 - The Luxembourg Ministry of Finance
@@ -19,6 +19,9 @@ Created by Aiva Technologies, funded by
     - First attempt: I picked 😬, which seems to be creep/suspenseful. Tracks used roughly the same instruments as the influence (an RNG track from a previous project). Changed the key signature from G Major to its relative minor E. 
     - Second attempt: I did not select an emotion but it gave me a creepy sounding song anyway. Instrumentation was also off-- it added strings for some reason.
 - So far, the tracks at least sound alright. No dissonance or feedback sounds.
+
+#### Notes from the trials:
+- Running samples from the [folk] section, I've been very surprised by the results so far. 
 
 
 ## MusicFX
