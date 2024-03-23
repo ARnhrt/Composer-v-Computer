@@ -18,6 +18,3 @@ Final samples on [Youtube](https://www.youtube.com/channel/UCAjCcDsltUnetSoCYdKz
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
 
-
-
-*For more information, visit the [Wiki](https://github.com/ARnhrt/Composer-v-Computer/wiki)*
