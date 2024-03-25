@@ -16,12 +16,12 @@ Created by Aiva Technologies, funded by
   - Can also choose an emotion to make new tracks
     - These are the options they give for emotions: 😌 🥳 😭 😬
       - *This is exactly what is on the website, I'm not trying to be funny, this is real.*
-    - First attempt: I picked 😬, which seems to be creep/suspenseful. Tracks used roughly the same instruments as the influence (an RNG track from a previous project). Changed the key signature from G Major to its relative minor E. 
-    - Second attempt: I did not select an emotion but it gave me a creepy sounding song anyway. Instrumentation was also off-- it added strings for some reason.
+    - Testing Round: I picked 😬, which seems to be creepy/suspenseful. Tracks used roughly the same instruments as the influence (an RNG track from a previous project). Changed the key signature from G Major to its relative minor E. 
 - So far, the tracks at least sound alright. No dissonance or feedback sounds.
 
 #### Notes from the trials:
-- Running samples from the [folk] section, I've been very surprised by the results so far. 
+- Running samples from the [folk] section, I've been very surprised by the results so far.
+  - Despite the influence using woodwinds and guitar, the output from AIVA has and electric piano lead and cello backing. 
 
 
 ## MusicFX
@@ -38,3 +38,23 @@ Created by Google, part of the AI Test Kitchen.
 - Surprisingly, the quality seems to have decreased since the original tests in November.
 - Occasionally creates uncanny, dissonant, or screeching sounds.
   - Output for "50s Doo-wop music" was so unpleasent that the category was removed from the study.
+- Prompts aren't matching the output, but that may be because of me.
+
+
+## StableAudio
+Created by StabilityAI 
+
+#### Pricing: 
+- Free with account
+- Upgrades available
+- 30 generated tracks per month
+
+## ChatGPT (v.3.5)
+Created by OpenAI
+
+#### Pricing:
+- Free with account
+- Upgrades available
+- 30 generated tracks per month
+
+
