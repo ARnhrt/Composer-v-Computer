@@ -12,7 +12,7 @@ Description: program will randomly generate a song by picking the
  -Notes
       -Numeric Value (in scale)
       -Length
-Theoretically, this could be more random, but I don't know how to do that."""
+"""
 
 #random.randint(x,y)
 import random
@@ -25,10 +25,9 @@ BEATS = MEASURES * COUNTS #constant
 #Functions
 def chordChooser(): 
     print("\nChord Progression:")
-    j = 0
     chordChoice = [1, 2, 3, 4, 5, 6, 7, 8]
 
-    for j in range(MEASURES):
+    for m in range(MEASURES):
         chord = random.choice(chordChoice)
         print(chord, end = " ")
         if (mm == "Major"):
@@ -74,7 +73,6 @@ def melody():
         
         
         #sequence
-        i = 0
         print("\n\nNote Sequence: ")
         for i in range(iterations):
             #notes
@@ -87,7 +85,7 @@ def melody():
         more = input("\n\nGenerate another measure? ").lower()
 
 #Print starting text
-input("***Welcome to Random Music Generator(working title)!*** \nPress anything to start!")
+input("***Welcome to Random Music Generator!*** \nPress anything to start!")
 print()
 
 #Key
