@@ -21,7 +21,8 @@ Created by Aiva Technologies, funded by
 
 #### Notes from the trials:
 - Running samples from the [folk] section, I've been very surprised by the results so far.
-  - Despite the influence using woodwinds and guitar, the output from AIVA has and electric piano lead and cello backing. 
+  - Despite the influence using woodwinds and guitar, the output from AIVA has and electric piano lead and cello backing.
+- I am 9 generations into the [8-bit] trials and there is no end in site.  
 
 
 ## MusicFX
