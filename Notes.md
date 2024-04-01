@@ -58,4 +58,5 @@ Created by OpenAI
 - Upgrades available
 - 30 generated tracks per month
 
-
+#### User Observations:
+- 
