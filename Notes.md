@@ -45,7 +45,7 @@ Created by Google, part of the AI Test Kitchen.
   - Folk: A North American folk song. There are calm chords played on guitar with a lively woodwind trio. A steady drum beat contributes to a peaceful yet adventurous song.
 
 
-## StableAudio
+## Stable Audio
 Created by StabilityAI 
 
 #### Pricing: 
