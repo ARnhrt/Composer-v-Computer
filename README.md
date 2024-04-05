@@ -1,5 +1,6 @@
 # A comparitive study on AI-generated music
 ## Description
+ With the advancements in artificial intelligence technology in recent years, there have been several applications that (claim to) generate art indistinguishable from that created by human artists. The goal of this project is to compare music samples composed by a human, an AI chatbot, a random number generation program (control group), and three AI music-generators.  
 
 ## Sources
 ### Artificial Intelligence
@@ -17,4 +18,5 @@ Final samples on [Youtube](https://www.youtube.com/channel/UCAjCcDsltUnetSoCYdKz
 ### Survey Results
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
+Last updated on 4 April 2024
 
