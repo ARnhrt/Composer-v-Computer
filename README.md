@@ -12,7 +12,7 @@
 Compositions made with [Beepbox](https://beepbox.co), videos edited with Microsoft Clipchamp.
 
 ## Data
-[Observations](Notes.md).
+General [observations](Notes.md) and notes from the experiment.
 
 Final samples on [Youtube](https://www.youtube.com/playlist?list=PLWamT2gxm2FpTqlXxz8xDp-by0cv_J0MY). 
 ### Survey Results
