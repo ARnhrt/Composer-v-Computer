@@ -14,7 +14,7 @@ Compositions made with [Beepbox](https://beepbox.co), videos edited with Microso
 ## Data
 [Observations](Notes.md).
 
-Final samples on [Youtube](https://www.youtube.com/channel/UCAjCcDsltUnetSoCYdKz_sQ).
+Final samples on [Youtube](https://www.youtube.com/playlist?list=PLWamT2gxm2FpTqlXxz8xDp-by0cv_J0MY). 
 ### Survey Results
 Want to participate? Take the [survey](https://docs.google.com/forms/d/e/1FAIpQLSfKlWD3-Zt3Q-yTyG97skwALyFgjdNqpMbmKos5tebeFYqiLA/viewform?usp=sf_link)!
 
