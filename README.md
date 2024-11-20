@@ -2,7 +2,6 @@
 ## Description
  With the advancements in artificial intelligence technology in recent years, there have been several applications that (claim to) generate art indistinguishable from that created by human artists. The goal of this project is to compare music samples composed by a human, an AI chatbot, a random number generation program (control group), and three AI music-generators.  
 
-## Sources
 ### Artificial Intelligence
 > - [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx)
 > - [StableAudio](https://stability.ai/stable-audio)
