@@ -11,4 +11,4 @@ MusicFX has a DJ Mode? <br/> It's awful. <br/> MusicFX DJ does not seem to know 
 <br/><br/>
 
 *Wed. 11-20-24*
-In regards to the RNG program: I would love this thing to actually have an output that can be tailored ever so slightly based on user input. The two ways I can think of to do this is with a web of conditionals and functions or to learn how to do functional programming. Neither sound the most fun or easy to document, but we'll see. 
+<br/>In regards to the RNG program: I would love this thing to actually have an output that can be tailored ever so slightly based on user input. The two ways I can think of to do this is with a web of conditionals and functions or to learn how to do functional programming. Neither sound the most fun or easy to document, but we'll see. HashMaps would probably be useful for storing keys and notes maybe?
