@@ -6,3 +6,5 @@
 - Conduct a blind survey to loosely rank outputs. The bones of this are in the GitHub already.
 - Write a better RNG program with adjustments for style/mood.
   - Document well, especially include the limitations of the program.
+<b/>
+MusicFX has a DJ Mode? <br/> It's awful. <br/> MusicFX DJ does not seem to know what is in the feasible range of a trumpet. My ears are bleeding. 
